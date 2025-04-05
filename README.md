@@ -18,6 +18,10 @@ You can access the live version of the dashboard here:
 
 [React-IoT Dashboard](https://viswanandmuruganantham.github.io/React-IOT/)
 
+
+![image](https://github.com/user-attachments/assets/ff59a7e1-7756-4395-bc27-1522d1a3deca)
+
+
 ## Tech Stack
 
 - **Frontend**: React, Vite
